@@ -1,16 +1,4 @@
-/*                UNIVERSIDADE ESTADUAL DE MARINGÁ 
-                 Departamento de Engenharia Química
-  Curso: Engenharia Elétrica
-  Disciplina: 6688 - Projeto de Sistemas Microcontrolados
-  Professor: Rubens Zenko Sakiyama
-  Tema: Controle de acesso
-  Alunos: Caio de Andrade Caetano   RA:98425
-          Felipe Favaro Tsukuda     RA:101205
-          Hugo Fusinato             RA:101201
-                                            
-                      14/10/2019
 
-*/
 #include <SPI.h>  // Inclui a biblioteca SPI de comunicação
 #include <MFRC522.h>  // Inclui a biblioteca do leitor RFID
 #include <Wire.h> // Inclui a biblioteca I2C de comunicação
